@@ -1,2 +1,3 @@
 # tibbrow
-tibblowは、Webview2を使用しています。
+ここでtibblowは公開していません。  
+右下の場所に｢Releases｣があるので、そこをクリックしてバイナリをダウンロードしてください。
